@@ -1,0 +1,302 @@
+#let-page {
+
+    width: 32vh;
+    height: 97vh;
+    background-color: #f6f8fc;
+
+
+}
+
+#gmail-logo {
+    margin-bottom: -3%;
+}
+
+
+
+.icons {
+    border: none;
+    margin-left: 11px;
+    margin-bottom: 10%;
+    width: 90%;
+
+
+}
+
+.icons:hover {
+    background-color: rgb(196, 208, 208);
+    color: white;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+#center-screen {
+
+    width: 110vh;
+    height: 87vh;
+    margin-left: 33vh;
+    margin-top: -53%;
+    border-radius: 30px;
+}
+
+#nav-bar {
+
+    width: 110vh;
+    height: 10vh;
+    margin-left: 33vh;
+    margin-top: -60%;
+    position: absolute;
+    background-color: #f6f8fc;
+
+}
+
+#last-page {
+
+    width: 13vh;
+    height: 98vh;
+    margin-left: 69%;
+    margin-top: -54%;
+    position: absolute;
+    background-color: #f6f8fc;
+
+
+}
+
+#search-bar {
+    background-color: aqua;
+    height: 50px;
+    width: 80%;
+    margin-left: 3%;
+    margin-top: 1%;
+    background-color: #eaf1fb;
+    border-radius: 5px;
+
+}
+
+input {
+    width: 77%;
+    height: 35px;
+    margin-left: 10%;
+    margin-top: 1%;
+    background-color: #eaf1fb;
+    border: none;
+}
+
+
+#search-icon {
+    margin-left: 2%;
+    margin-top: 2%;
+    position: absolute;
+    background-color: #eaf1fb;
+}
+
+#inside-center {
+    border: 2px solid rgb(217, 209, 209);
+    width: 90%;
+    height: 45%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius: 9px;
+}
+
+#question-tag {
+    float: right;
+    margin-right: 11%;
+    margin-top: -6%
+}
+
+#question-tag:hover {
+    background-color: yellow;
+    border-radius: 100%;
+    padding: 4px;
+    background-color: #9ba3af;
+}
+
+
+#question {
+    float: right;
+    margin-right: 5%;
+    margin-top: -6%
+}
+
+#question-3 {
+    float: right;
+
+    margin-top: -6%
+}
+
+#m-icon {
+    margin-left: 10%;
+}
+
+.last-icons {
+    margin-left: 30%;
+    margin-bottom: 40%
+}
+
+#filter {
+    float: right;
+    margin-top: -6%;
+}
+
+.x-icon {
+    margin-left: 45%
+}
+
+.y-icon {
+    margin-left: 5%
+}
+
+#b {
+    margin-bottom: -1%
+}
+
+.t1 {
+    margin-top: -20%;
+    margin-left: 18%
+}
+
+
+.t2 {
+    margin-top: 9%;
+    margin-left: 18%
+}
+
+.t3 {
+    margin-top: -15%;
+    margin-left: 73%
+}
+
+.t4 {
+    margin-top: 6%;
+    margin-left: 73%
+}
+
+#first-center-container {
+    background-color: #ffffff;
+    position: relative;
+    margin: 2%
+}
+
+#second-container {
+    background-color: #ffffff
+}
+
+#drop {
+    margin-bottom: 2%;
+
+}
+
+#refresh {
+    margin-left: 2%;
+    margin-bottom: 3px
+}
+
+#option {
+    margin-left: 0%;
+    margin-bottom: 3px
+}
+
+#left-arrow {
+    margin-left: 65%;
+}
+
+#right-arrow {
+    margin-bottom: 1px;
+}
+
+
+#second-container span {
+    margin-left: 1%;
+    margin-top: -10%;
+}
+
+#second-container img {
+    margin-left: 10%;
+
+}
+
+#foot {
+
+    height: 10vh;
+
+    padding-bottom: -50%
+}
+
+
+.space1 {
+    margin-left: 1%
+}
+
+.box {
+    padding-bottom: -15%
+}
+
+.space2 {
+    font-size: small;
+    margin-left: 10%;
+}
+
+#img-space {
+    margin-left: 3%
+}
+
+.spacing {
+    margin-left: 25%
+}
+
+.space {
+    margin-left: 30%;
+
+}
+
+.font-size {
+    font-size: small
+}
+
+#font-size {
+    font-size: 90%
+}
+
+#menu-drop-down {
+    color: white;
+    background-color: rgb(37, 35, 35);
+    border-radius: 11%;
+    width: 80px;
+    margin-left: 2%;
+    text-align: center;
+    display: none;
+
+}
+
+#menu-drop-down:hover {
+    display: flex
+}
+
+#c-hover:hover {
+    background-color: rgb(178, 194, 194);
+    color: white;
+
+    height: 20%
+}
+
+#second-container img:hover {
+    background-color: red;
+
+}
+
+.a:hover {
+    background-color: rgb(186, 226, 226);
+    ;
+    padding: 3%;
+
+    padding-left: 1%;
+}
+
+.right-icons:hover {
+    background-color: #9ba3af;
+
+    padding-bottom: 10%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
